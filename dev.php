@@ -1,3 +1,3 @@
 <?php
-	echo 'dev'l
+	echo 'dev';
 ?>
